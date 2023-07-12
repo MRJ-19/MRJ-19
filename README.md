@@ -1,4 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a motivated and adaptable individual eager to contribute my skills and
+enthusiasm to a dynamic team. With a strong commitment to continuous
+learning and a proactive approach to problem-solving. </h3>
 
 - 📫 How to reach me **arjun0009rj@gmail.com**
 
