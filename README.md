@@ -2,7 +2,6 @@
 enthusiasm to a dynamic team. With a strong commitment to continuous
 learning and a proactive approach to problem-solving. </h3>
 
-- 📫 How to reach me **arjun0009rj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
